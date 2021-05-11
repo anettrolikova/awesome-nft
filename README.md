@@ -125,6 +125,8 @@ Table of contents
 
 ## **Publications**
 
+- [NFT Standards Wiki](https://www.nftstandards.wtf/Welcome+page) by [Anett](https://twitter.com/AnettRolikova)
+
 ### **Newsletters**
 
 - [NFTY News](https://medium.com/nfty-news) by [Brian Flynn](https://medium.com/@brianubiquik)
